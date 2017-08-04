@@ -8,11 +8,11 @@
 
 **vue-router**：单页应用路由管理必备
 
-### vue-resource：发起http请求
+**vue-resource**：发起http请求
 
-### Webpack：自动化构建工具，大部分配置vue-cli脚手架已经弄好了，很方便。
+**Webpack**：自动化构建工具，大部分配置vue-cli脚手架已经弄好了，很方便。
 
-### element-ui：基于 Vue 2.0 的组件库
+**element-ui**：基于 Vue 2.0 的组件库
 
 ## Build Setup
 
