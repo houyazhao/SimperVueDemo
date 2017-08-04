@@ -4,9 +4,9 @@
 
 ## 技术栈
 
-### Vue2：采用最新Vue2的语法
+**Vue2**：采用最新Vue2的语法
 
-### vue-router：单页应用路由管理必备
+**vue-router**：单页应用路由管理必备
 
 ### vue-resource：发起http请求
 
